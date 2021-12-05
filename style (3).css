@@ -1,0 +1,65 @@
+.nam{
+	font-family:Algerian;
+color:white;
+}
+.but1{
+					height:56px;
+				width:99px;
+			background-color:#1FD6E8 ;
+		transition:transform 2s, background-color 3s, width 3s
+	cubic-bezier(0.74, 0.23, 0.06, 0.93);
+ margin-right:110px;
+}
+.but1:hover{
+		background-color:#D05CE7;
+	width:150px;
+transform:rotate(360deg);
+}
+.but2{
+					height:56px;
+				width:99px;
+			background-color:#1FD6E8 ;
+		transition:transform 2s,background-color 3s, width 3s
+	cubic-bezier(0.74, 0.23, 0.06, 0.93);
+ margin-right:110px;
+}
+.but2:hover{
+		background-color:#D05CE7;
+	width:150px;
+transform:rotate(360deg);
+}
+.but3{
+						height:56px;
+					width:99px;
+				background-color:#1FD6E8 ;
+			transition:transform 2s,background-color 3s, width 3s
+		cubic-bezier(0.74, 0.23, 0.06, 0.93);
+	margin-right:110px;
+}
+.but3:hover{
+		background-color:#D05CE7;
+	width:150px;
+transform:rotate(360deg);
+}
+.but4{
+							height:56px;
+					width:99px;
+				background-color:#1FD6E8 ;
+			transition:transform 2s,background-color 3s, width 3s
+		cubic-bezier(0.74, 0.23, 0.06, 0.93);
+	margin-right:110px;
+}
+.but4:hover{
+		background-color:#D05CE7;
+	width:150px;
+transform:rotate(360deg);
+}
+.white{
+	color:white;
+	text-align:center;
+}
+.fb{
+	width:105px;
+	margin-left:80px;
+	
+}
